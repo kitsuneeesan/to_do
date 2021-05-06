@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "name": "Kitsuneeesan",
+            "age": 99,
+            "to_do": [
+                {
+                    "desc": "Bengong",
+                    "state": "Draft"
+                },
+                {
+                    "desc": "Tidur",
+                    "state": "Draft"
+                }
+            ]
+        }
+    ]
+}
